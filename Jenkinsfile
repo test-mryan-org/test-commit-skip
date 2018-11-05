@@ -1,1 +1,3 @@
-sh 'echo coucou'
+node{
+  sh 'echo coucou'
+}
